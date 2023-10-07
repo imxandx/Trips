@@ -427,6 +427,11 @@ header .shopping span {
     .reserved-rights {
         margin: 0 auto;
     }
+
+    .reserved-rights h3 {
+        font-size: 17px;
+        margin-left: 6%;
+    }
 }
 
 @media screen and (max-width: 587px) {
