@@ -511,6 +511,10 @@ header .shopping span {
         flex-direction: column;
         margin: 0 auto;
     }
+
+    .card {
+        margin-top: -3%;
+    }
 }
 
 @media screen and (min-width: 390px) {
@@ -523,5 +527,9 @@ header .shopping span {
         display: flex;
         flex-direction: column;
         width: 100%;
+    }
+
+    .card {
+        margin-top: -3%;
     }
 }
